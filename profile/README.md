@@ -1,10 +1,12 @@
 # LiventCord
 
-**LiventCord** is a privacy-focused communication platform that enables real-time messaging, channel management, file sharing, and voice/video communication, with a focus on data security.
+**LiventCord** is a privacy-focused communication platform for real-time messaging, channel management, file sharing, and voice/video communication. It prioritizes data security and user privacy.
 
 ## Why LiventCord?
 
-LiventCord is an open-source alternative to popular communication platforms, designed with privacy and security at its core. It provides a platform where users can communicate freely without being tracked or having their data used for advertising. As an open-source project, LiventCord ensures transparency and gives users full control over their data.
+LiventCord is an open-source alternative to popular communication platforms, designed with privacy and security at its core. As a self-hostable platform, it allows users full control over their data, ensuring transparency.
+
+Built with .NET Core and PostgreSQL with Entity Framework Core, LiventCord offers a reliable backend for managing communications and user interactions.
 
 Built with **.NET Core** and using **PostgreSQL** with **Entity Framework Core**, LiventCord provides a reliable backend for managing communication and user interactions.
 
