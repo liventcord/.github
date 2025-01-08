@@ -1,23 +1,11 @@
-# LiventCord
+## What is LiventCord?
+LiventCord is an open-source, self-hosted communication platform for real-time messaging, channel management, file sharing, and voice/video communication. It prioritizes data security and user privacy.
 
-**LiventCord** is a privacy-focused communication platform for real-time messaging, channel management, file sharing, and voice/video communication. It prioritizes data security and user privacy.
 
 ## Why LiventCord?
+LiventCord eliminates the need to rely on third-party services, ensuring your data stays in your hands. By being self-hosted, it offers you more privacy and control over your communication, without depending on external providers or compromising your information.
 
-LiventCord is an open-source alternative to popular communication platforms, designed with privacy and security in mind. 
-It is a self-hostable server, allowing users to retain full control over their data and communication. Unlike other platforms that may compromise user privacy or monetize user data, LiventCord ensures that your conversations remain private, secure, and under your control.
-
-
-## Backend: Built with .NET Core for performance and scalability.
-
-## Database: Uses Entity Framework Core for database management, supporting a variety of databases:
-
-***MongoDB***
-***PostgreSQL***
-***MySQL***
-***MariaDB***
-***SQLite***
-
+## Features
 ## Features
 
 - **Guild & Channel Management**: Create, join, and manage guilds and channels.
@@ -25,10 +13,22 @@ It is a self-hostable server, allowing users to retain full control over their d
 - **Friendship & Invitations**: Manage friends and invite users to guilds.
 - **File Sharing**: Upload and retrieve various file types (images, videos, documents, etc.).
 - **Direct Messaging**: 1-on-1 messaging with real-time updates.
+  
+
+## Backend: Built with .NET Core for performance and scalability.
+
+## Database: Uses Entity Framework Core for database management, supporting a variety of databases:
+
+**MongoDB**
+**PostgreSQL**
+**MySQL**
+**MariaDB**
+**SQLite**
+
 
 ## Getting Started
 
-To get started with **LiventCord**, you can set up the backend locally
+To get started with **LiventCord**, you can set up the server locally
 
 ### Prerequisites
 
@@ -61,6 +61,7 @@ To get started with **LiventCord**, you can set up the backend locally
     $ dotnet run
 
 ---
+
 ### Future Ideas
 - **Voice & Video**: Real-time group and direct voice/video chat.
 - **Custom Presence**: Set status with custom messages to reflect availability or activity
