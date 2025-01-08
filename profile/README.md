@@ -4,23 +4,26 @@
 
 ## Why LiventCord?
 
-LiventCord is an open-source alternative to popular communication platforms, designed with privacy and security at its core. As a self-hostable platform, it allows users full control over their data, ensuring transparency.
+LiventCord is an open-source alternative to popular communication platforms, designed with privacy and security in mind. 
+It is a self-hostable server, allowing users to retain full control over their data and communication. Unlike other platforms that may compromise user privacy or monetize user data, LiventCord ensures that your conversations remain private, secure, and under your control.
 
-Built with .NET Core and PostgreSQL with Entity Framework Core, LiventCord offers a reliable backend for managing communications and user interactions.
 
-Built with **.NET Core** and using **PostgreSQL** with **Entity Framework Core**, LiventCord provides a reliable backend for managing communication and user interactions.
+## Backend: Built with .NET Core for performance and scalability.
+
+## Database: Uses Entity Framework Core for database management, supporting a variety of databases:
+
+***MongoDB***
+***PostgreSQL***
+***MySQL***
+***MariaDB***
+***SQLite***
 
 ## Features
 
-- **Guild & Channel Management**: APIs to create, join, and manage guilds and channels.
+- **Guild & Channel Management**: Create, join, and manage guilds and channels.
 - **Messaging**: Send, receive, and delete messages with rich formatting, mentions, reactions, and emoji support.
-- **Search**: Full-text search to quickly retrieve past conversations.
 - **Friendship & Invitations**: Manage friends and invite users to guilds.
-- **Permissions**: Fine-grained control over guild and channel permissions.
 - **File Sharing**: Upload and retrieve various file types (images, videos, documents, etc.).
-- **Voice & Video**: Real-time group and direct voice/video chat.
-- **Custom Profiles**: Users can personalize profiles with avatars.
-- **Custom Presence**: Set status with custom messages to reflect availability or activity.
 - **Direct Messaging**: 1-on-1 messaging with real-time updates.
 
 ## Getting Started
@@ -30,11 +33,10 @@ To get started with **LiventCord**, you can set up the backend locally
 ### Prerequisites
 
 - **.NET Core SDK**
-- **PostgreSQL**(Optional) database system for storing user and message data
 
 ### Clone the Repository
 
-    $ git clone https://github.com/liventcord/liventcord
+    $ git clone --depth 1 https://github.com/liventcord/liventcord
 ---
 ### Set Environment Variables
 
@@ -59,8 +61,14 @@ To get started with **LiventCord**, you can set up the backend locally
     $ dotnet run
 
 ---
+### Future Ideas
+- **Voice & Video**: Real-time group and direct voice/video chat.
+- **Custom Presence**: Set status with custom messages to reflect availability or activity
+- **Search**: Text search to retrieve past conversations
+-  **Moderation**: Fine-grained moderation over guild and channel management
+-  **SSE Events**: Realtime event streaming
 
-
+  
 ### Contributing
 
 Feel free to fork the repository and submit pull requests. We welcome contributions and improvements.
