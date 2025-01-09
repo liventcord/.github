@@ -72,7 +72,7 @@ To get started with **LiventCord**, you can set up the server locally
   
 ### Contributing
 
-Feel free to fork the repository and submit pull requests. We welcome contributions and improvements.
+Feel free to fork the repositories and submit pull requests. We welcome contributions and improvements.
 
 ### License
 
