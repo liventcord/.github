@@ -5,8 +5,7 @@ LiventCord is an open-source, self-hosted communication platform for real-time m
 ## Why LiventCord?
 LiventCord eliminates the need to rely on third-party services, ensuring your data stays in your hands. By being self-hosted, it offers you more privacy and control over your communication, without depending on external providers or compromising your information.
 
-## Features
-## Features
+## Feature
 
 - **Guild & Channel Management**: Create, join, and manage guilds and channels.
 - **Messaging**: Send, receive, and delete messages with rich formatting, mentions, reactions, and emoji support.
@@ -15,15 +14,17 @@ LiventCord eliminates the need to rely on third-party services, ensuring your da
 - **Direct Messaging**: 1-on-1 messaging with real-time updates.
   
 
-## Backend: Built with .NET Core for performance and scalability.
+## Backend 
+Built with .NET Core for performance and scalability.
 
-## Database: Uses Entity Framework Core for database management, supporting a variety of databases:
+## Database 
+Uses Entity Framework Core for database management, supporting a variety of databases:
 
-**MongoDB**
-**PostgreSQL**
-**MySQL**
-**MariaDB**
-**SQLite**
+- **MongoDB**
+- **PostgreSQL**
+- **MySQL**
+- **MariaDB**
+- **SQLite**
 
 
 ## Getting Started
@@ -40,8 +41,8 @@ To get started with **LiventCord**, you can set up the server locally
 ---
 ### Set Environment Variables
 
-1. Create the `Properties/appsettings.json` file in your project directory.
-2. Add the following JSON configuration, replacing placeholders with your actual values:
+1. Create the `Properties/appsettings.json` file in project directory.
+2. Add the following JSON configuration and replace placeholders:
 
     ```json
     {
