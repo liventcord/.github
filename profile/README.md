@@ -1,9 +1,8 @@
 ## What is LiventCord?
-LiventCord is an open-source, self-hosted communication platform for real-time messaging, channel management, file sharing, and voice/video communication. It prioritizes data security and user privacy.
-
+LiventCord is an open-source, self-hosted platform for real-time messaging, channel management, file sharing, and voice/video communication, with a strong focus on data security and user privacy.
 
 ## Why LiventCord?
-LiventCord eliminates the need to rely on third-party services, ensuring your data stays in your hands. By being self-hosted, it offers you more privacy and control over your communication, without depending on external providers or compromising your information.
+By being self-hosted, LiventCord gives you full control over your data, ensuring your communication remains private without relying on third-party services
 
 ## Feature
 
