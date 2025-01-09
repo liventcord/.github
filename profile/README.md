@@ -4,7 +4,7 @@ LiventCord is an open-source, self-hosted platform for real-time messaging, chan
 ## Why LiventCord?
 By being self-hosted, LiventCord gives you full control over your data, ensuring your communication remains private without relying on third-party services
 
-## Feature
+## Features
 
 - **Guild & Channel Management**: Create, join, and manage guilds and channels.
 - **Messaging**: Send, receive, and delete messages with rich formatting, mentions, reactions, and emoji support.
