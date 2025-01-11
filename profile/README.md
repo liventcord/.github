@@ -10,7 +10,7 @@ By being self-hosted, LiventCord gives you full control over your data, ensuring
 - **Messaging**: Send, receive, and delete messages with rich formatting, mentions, reactions, and emoji support.
 - **Friendship & Invitations**: Manage friends and invite users to guilds.
 - **File Sharing**: Upload and retrieve various file types (images, videos, documents, etc.).
-- **Direct Messaging**: 1-on-1 messaging with real-time updates.
+- **Direct Messaging**: Private messaging with users
   
 
 ## Backend 
