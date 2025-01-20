@@ -14,23 +14,26 @@ By being self-hosted, LiventCord gives you full control over your data, ensuring
   
 
 ## Backend 
-Built with .NET Core for performance and scalability.
+Built with .NET Core 8.0.
 
 ## Database 
-Uses Entity Framework Core for database management, supporting a variety of databases:
+Uses Entity Framework Core for database management, supporting :
 
-- **MongoDB**
 - **PostgreSQL**
 - **MySQL**
 - **MariaDB**
+- **Oracle**
+- **Firebird**
+- **SqlServer**
 - **SQLite**
+
 
 ### Future Ideas
 - **Voice & Video**: Real-time group and direct voice/video chat.
 - **Custom Presence**: Set status with custom messages to reflect availability or activity
 - **Search**: Text search to retrieve past conversations
 -  **Moderation**: Fine-grained moderation over guild and channel management
--  **SSE Events**: Realtime event streaming
+-  **SSE Events/Websockets**: Realtime event streaming
 
   
 ### Contributing
