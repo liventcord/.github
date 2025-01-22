@@ -1,7 +1,5 @@
 ## What is LiventCord?
-LiventCord is an open-source, self-hosted platform for real-time messaging, channel management, file sharing, and voice/video communication, with a strong focus on data security and user privacy.
-
-## Why LiventCord?
+LiventCord is an open-source, self-hosted platform for real-time messaging, channel management, file sharing, and voice/video communication
 By being self-hosted, LiventCord gives you full control over your data, ensuring your communication remains private without relying on third-party services
 
 ## ✨ Features
@@ -32,8 +30,8 @@ Uses Entity Framework Core for database management, supporting :
 - **Voice & Video**: Real-time group and direct voice/video chat.
 - **Custom Presence**: Set status with custom messages to reflect availability or activity
 - **Search**: Text search to retrieve past conversations
--  **Moderation**: Fine-grained moderation over guild and channel management
--  **SSE Events/Websockets**: Realtime event streaming
+- **Moderation**: Fine-grained moderation over guild and channel management
+- **SSE Events/Websockets**: Realtime event streaming
 
   
 ### Contributing
