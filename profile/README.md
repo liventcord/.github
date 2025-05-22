@@ -13,12 +13,12 @@ By being self-hosted, LiventCord gives you full control over your data, ensuring
 
 ## 🖥 Backend 
 - **.Net Core 8.0**
-- **Gin/Gorilla Websockets**
+- **Golang Gin**
 - **Redis Streams**
 - **Cloudflare Workers**
   
 ## 🖥️ Frontend
-- **Vite**
+- **Vue/Vite TypeScript**
 - **Font Awesome**
 - **Croppie**
 - **Confetti**
